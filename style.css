@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
 .cabecalho{
-    background-color: rgb(205, 50, 50)  ;
-    color: white;
+    background-color: rgb(99, 99, 99);
+    color: rgb(174, 0, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -17,5 +18,9 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 55px;
+    font-size: 56px;
+
+}
+.escola-imagem{
+    width: 25%;
 }
